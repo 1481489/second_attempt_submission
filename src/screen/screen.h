@@ -10,7 +10,7 @@ using namespace std;
 // is accessed using "string::size_type".
 // The range of string::size_type is guaranteed to be large enough to store the maximum
 // *size* of any string that can be held by the string class as well as any index into
-// the string.
+// the string.//
 
 class Screen {
 public:
